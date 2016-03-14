@@ -20,8 +20,9 @@ Word processors may look like they don’t have any special formatting; however,
 
 The text editor we will be using in this course is Sublime Text. Sublime is one of the most popular text editors available, and it’s used by developers of all stages, from beginner to expert. It’s free, easy to use, and has a number of helpful features. Watch our video about Sublime if you’d like to know how to download it and how to employ some tips and tricks to get the most out of it.
 
-<iframe src="//fast.wistia.net/embed/iframe/b39xwakktq?seo=false" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="0" height="360"></iframe>
+<iframe src="//fast.wistia.net/embed/iframe/b39xwakktq?seo=false" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="0" height="0"></iframe>
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+
 
 [ BREAK ]
 
